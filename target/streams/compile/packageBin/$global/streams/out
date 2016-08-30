@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /home/hadoop/data/spark/src/SimpleRead/target/scala-2.11/simpleread_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	SimpleRead$$anonfun$read$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/data/spark/src/SimpleRead/target/scala-2.11/classes/SimpleRead$$anonfun$read$1.class[0m
+[0m[[0mdebug[0m] [0m	Read$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/data/spark/src/SimpleRead/target/scala-2.11/classes/Read$.class[0m
+[0m[[0mdebug[0m] [0m	Read.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/data/spark/src/SimpleRead/target/scala-2.11/classes/Read.class[0m
+[0m[[0mdebug[0m] [0m	SimpleRead$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/data/spark/src/SimpleRead/target/scala-2.11/classes/SimpleRead$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	SimpleRead$$anonfun$read$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/data/spark/src/SimpleRead/target/scala-2.11/classes/SimpleRead$$anonfun$read$2.class[0m
+[0m[[0mdebug[0m] [0m	SimpleRead$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/data/spark/src/SimpleRead/target/scala-2.11/classes/SimpleRead$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	SimpleRead$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/data/spark/src/SimpleRead/target/scala-2.11/classes/SimpleRead$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	SimpleRead.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/data/spark/src/SimpleRead/target/scala-2.11/classes/SimpleRead.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
